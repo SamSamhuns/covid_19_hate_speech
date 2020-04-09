@@ -12,6 +12,8 @@ The tweet dataset were acquired from a public dataset of tweet ids with various 
 
 ## Hate Speech Classification
 
+## Methodology
+
 ## Results
 
 ## Discussion
