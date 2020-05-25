@@ -48,10 +48,7 @@ Hate speech lexicon and labelled hate speech twitter data examples were acquired
 
 ## References
 
-<<<<<<< HEAD
--   Chen E., Lerman K. and Ferrara E. (2020). COVID-19: The First Public Coronavirus Twitter Dataset. arXiv:2003.07372
-=======
--    Chen E., Lerman K. and Ferrara E. (Mar 16 2020). COVID-19: The First Public Coronavirus Twitter Dataset. arXiv:2003.07372. <https://arxiv.org/abs/2003.07372>
+-   Chen E., Lerman K. and Ferrara E. (Mar 16 2020). COVID-19: The First Public Coronavirus Twitter Dataset. arXiv:2003.07372. <https://arxiv.org/abs/2003.07372>
 
--    Davidson, Thomas, Debasmita Bhattacharya, and Ingmar Weber. (May 29 2019) “Racial Bias in Hate Speech and Abusive Language Detection Datasets.” ArXiv:1905.12516 [Cs]. <https://arxiv.org/abs/1905.12516>
->>>>>>> ae4d06c297dc173556817b440223c4dbfe57c9b8
+-   Davidson, Thomas, Debasmita Bhattacharya, and Ingmar Weber. (May 29 2019) “Racial Bias in Hate Speech and Abusive Language Detection Datasets.” ArXiv:1905.12516 [Cs]. <https://arxiv.org/abs/1905.12516>
+    > > > > > > > ae4d06c297dc173556817b440223c4dbfe57c9b8
