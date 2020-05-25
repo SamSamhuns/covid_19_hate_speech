@@ -34,17 +34,37 @@ Hate speech lexicon and labelled hate speech twitter data examples were acquired
 
 ## Data Preprocessing
 
-## Exploratory Data Analysis
+To recreate results from Davidson et. al. and Zimmerman et. al., the preprocessing functions are detailed in `util/preprocess_neural_network_ensemble.py` and `util/preprocess_log_regr_and_svm.py`
 
-## Hate Speech Classification
+The preprocessing steps in detail can be found at (davidson et al)[https://github.com/t-davidson/hate-speech-and-offensive-language] and (zimmerman et al)[https://github.com/stevenzim/lrec-2018]
 
-## Methodology
+## Hate Speech Classification Methodology
+
+The hate speech Classification is achieved through an ensemble learning technique where the results from an SVM classifier, Logistic Regression classifier, and Neural Network ensemble are aggregated using a hard voting mechanism.
+
+Performance on the labeled hate speech dataset from Davidson et. al.
+
+<div align='center'>
+  <img src='img/performance_metrics.png' />
+</div>
 
 ## Results
 
+<div align='center'>
+  <img src='img/total_hate_tweets.png' />
+</div>
+
+Total number of hate tweets, all tweets, and the ration of hateful tweets.
+
+<div align='center'>
+  <img src='img/normalized_hate_tweets.png' />
+</div>
+
+The normalized number of hate tweets, all tweets, and the ration of hateful tweets.
+
 ## Discussion
 
-## Acknowledgments
+The full report and discussion can be found in `Research_COVID_19_and_Racism.pdf`
 
 ## References
 
