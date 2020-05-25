@@ -50,5 +50,14 @@ Hate speech lexicon and labelled hate speech twitter data examples were acquired
 
 -   Chen E., Lerman K. and Ferrara E. (Mar 16 2020). COVID-19: The First Public Coronavirus Twitter Dataset. arXiv:2003.07372. <https://arxiv.org/abs/2003.07372>
 
--   Davidson, Thomas, Debasmita Bhattacharya, and Ingmar Weber. (May 29 2019) “Racial Bias in Hate Speech and Abusive Language Detection Datasets.” ArXiv:1905.12516 [Cs]. <https://arxiv.org/abs/1905.12516>
-    > > > > > > > ae4d06c297dc173556817b440223c4dbfe57c9b8
+-   Zeerak Waseem and Dirk Hovy. 2016. Hateful Symbols or Hateful
+    People? Predictive Features for Hate Speech Detection on Twitter. In
+    SRW@HLT-NAACL.
+
+-   Davidson Thomas , D. Warmsley , M. Macy and I. Weber. 2017. Auto-
+    mated Hate Speech Detection and the Problem of Offensive Language.
+
+-   In AAAI Publications, Eleventh International AAAI Conference on Web
+    and Social Media. <https://arxiv.org/abs/1703.04009>
+    [17] Steven Zimmerman, Udo Kruschwitz, and Chris Fox. 2018. Improving
+    Hate Speech Detection with Deep Learning Ensembles. In LREC.
