@@ -1,10 +1,10 @@
 import re
 import sys
 import nltk
-import tqdm
 import seaborn
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
 from sklearn.metrics import f1_score
 from keras.layers.pooling import GlobalMaxPooling1D

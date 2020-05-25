@@ -1,9 +1,9 @@
 import os
-import tqdm
 import json
 import tweepy
 
 import pandas as pd
+from tqdm import tqdm
 from pathlib import Path
 
 

@@ -2,11 +2,11 @@ import matplotlib.pyplot as plt
 import re
 import sys
 import nltk
-import tqdm
 import string
 import seaborn
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
 
 import textstat
