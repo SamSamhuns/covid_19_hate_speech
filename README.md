@@ -38,6 +38,8 @@ To recreate results from Davidson et. al. and Zimmerman et. al., the preprocessi
 
 The preprocessing steps in detail can be found at (davidson et al)[https://github.com/t-davidson/hate-speech-and-offensive-language] and (zimmerman et al)[https://github.com/stevenzim/lrec-2018]
 
+The `pre_trained_models` folder must contain the `Twitter Word2vec embeddings` binary from (Federic Godin's GitHub repository)[https://github.com/FredericGodin/TwitterEmbeddings]
+
 ## Hate Speech Classification Methodology
 
 The hate speech Classification is achieved through an ensemble learning technique where the results from an SVM classifier, Logistic Regression classifier, and Neural Network ensemble are aggregated using a hard voting mechanism.

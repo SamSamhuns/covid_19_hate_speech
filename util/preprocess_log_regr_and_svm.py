@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 import re
 import sys
 import nltk
@@ -18,6 +17,8 @@ from sklearn.metrics import classification_report
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_selection import SelectFromModel
 from sklearn.feature_extraction.text import TfidfVectorizer
+
+import matplotlib.pyplot as plt
 
 nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')

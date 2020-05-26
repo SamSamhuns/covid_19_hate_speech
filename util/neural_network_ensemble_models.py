@@ -15,6 +15,9 @@ from keras.layers import Dense, Activation
 from keras.models import Sequential
 from keras import initializers
 
+from .preprocess_log_regr_and_svm import generate_features_train_data, generate_features_test_data
+from .preprocess_neural_network_ensemble import get_cnn_embeddings
+
 # fix random seed for reproducibility
 np.random.seed(21)
 
