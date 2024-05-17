@@ -2,10 +2,9 @@ gensim==3.6.0
 Keras==2.3.1
 matplotlib==3.2.1
 nltk==3.2.5
-numpy==1.18.4
 pandas==1.0.3
 seaborn==0.10.1
 sklearn==0.0
 textstat==0.6.2
-tqdm==4.41.1
+tqdm
 vaderSentiment==3.3.2
